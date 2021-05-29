@@ -163,6 +163,7 @@ aside {
     padding: 5px;
     transform: scale(1.1);
     border: solid #000 2px;
+    cursor: help;
 }
 .background-section a {
     display: flex;
